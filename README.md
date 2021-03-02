@@ -1,6 +1,6 @@
 # Color/Pixel Reductor
 ## Usage
-[Color/Pixel Reductor](https://share.streamlit.io/takaogahara/pharma-toolkit/run_app.py)
+[Color/Pixel Reductor](https://share.streamlit.io/takaogahara/color-pixel-reductor/run-app.py)
 
 ---
 ## About
